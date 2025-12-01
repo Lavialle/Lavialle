@@ -8,7 +8,7 @@ While I would not describe myself as an expert programmer yet, I am actively wor
 
 I am involved in projects related to RAG, Agentic System Design, and large language models, although I have a strong preference for classical supervised machine learning approaches.
 
-Main programming languages and tools:
+## Main programming languages and tools:
 
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -24,9 +24,12 @@ Main programming languages and tools:
 <br clear="left"/>
 
 ## Some stats about me 
-![Ange's GitHub stats](https://github-stats-ajj32al0s-lavialles-projects.vercel.app/api?username=Lavialle&show_icons=true)
+![Ange's GitHub stats dark](https://github-stats-three-fawn.vercel.app/api?username=Lavialle&show_icons=true&theme=dark#gh-dark-mode-only)
+![Ange's GitHub stats light](https://github-stats-three-fawn.vercel.app/api?username=Lavialle&show_icons=true&theme=default#gh-light-mode-only)
 
-### Connect with me
+## Connect with me
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/angelavialle/)
+[<img align="left" width="25px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" />](mailto:ange.lavialle@pm.me)
 
 <!--
 **Lavialle/Lavialle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
