@@ -20,17 +20,18 @@ I am involved in projects related to RAG, Agentic System Design, and large langu
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 
 <br clear="left"/>
 
 ## Some stats about me 
-![Ange's GitHub stats dark](https://github-stats-three-fawn.vercel.app/api?username=Lavialle&show_icons=true&theme=dark#gh-dark-mode-only)
-![Ange's GitHub stats light](https://github-stats-three-fawn.vercel.app/api?username=Lavialle&show_icons=true&theme=default#gh-light-mode-only)
+![Ange's GitHub stats dark](https://github-stats-three-fawn.vercel.app/api?username=Lavialle&show_icons=true&theme=dark)
+<br clear="left"/>
 
 ## Connect with me
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/angelavialle/)
 [<img align="left" width="25px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" />](mailto:ange.lavialle@pm.me)
-
+<br clear="left"/>
 <!--
 **Lavialle/Lavialle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #gh-light-mode-only
