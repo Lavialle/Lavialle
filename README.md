@@ -1,13 +1,23 @@
 ## Hi there 👋
 
-I am Ange Lavialle. This is where I build, experiment, and break things on purpose.
+I am Ange Lavialle. I have this curse of breaking everything I build.
 
 
 I am currently pursuing a Master of Science in Data for Finance, a joint degree between Albert School and Mines Paris – PSL.
 While I would not describe myself as an expert programmer yet, I am actively working to become better.
 
 I am involved in projects related to RAG, Agentic System Design, and large language models, although I have a strong preference for classical supervised machine learning approaches.
-
+```mermaid
+flowchart TD
+    A[Wake up ☀️] --> B[Drink Coffee ☕]
+    B --> C[Write Code 💻]
+    C --> D{Does it work?}
+    D -- Yes --> E[Commit & Push 🚀]
+    D -- No --> F[Debug 🐛]
+    F --> C
+    E --> G[Sleep 😴]
+    G --> A
+```
 ## Main programming languages and tools:
 
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
