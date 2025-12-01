@@ -10,14 +10,27 @@ I am involved in projects related to RAG, Agentic System Design, and large langu
 
 Main programming languages and tools:
 
-- Python
-- R
-- HTML/CSS
-- SQL (PostgreSQL)
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<br clear="left"/>
+
+## Some stats about me 
+![Ange's GitHub stats](https://github-stats-ajj32al0s-lavialles-projects.vercel.app/api?username=Lavialle&show_icons=true)
+
+### Connect with me
 
 <!--
 **Lavialle/Lavialle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#gh-light-mode-only
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
