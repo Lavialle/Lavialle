@@ -9,13 +9,13 @@ While I would not describe myself as an expert programmer yet, I am actively wor
 I am involved in projects related to RAG, Agentic System Design, and large language models, although I have a strong preference for classical supervised machine learning approaches.
 ```mermaid
 flowchart TD
-    A[Wake up ☀️] --> B[Drink Coffee ☕]
-    B --> C[Write Code 💻]
+    A[Wake up] --> B[Drink Coffee]
+    B --> C[Write Code]
     C --> D{Does it work?}
-    D -- Yes --> E[Commit & Push 🚀]
-    D -- No --> F[Debug 🐛]
+    D -- Yes --> E[Commit & Push]
+    D -- No --> F[Debug]
     F --> C
-    E --> G[Sleep 😴]
+    E --> G[Sleep]
     G --> A
 ```
 ## Main programming languages and tools:
